@@ -1,11 +1,11 @@
-<h1 style="font-size: 2em;"> ElEmperador_Model Recipe </h1>
+<h3 style="font-size: 2em;"> ElEmperador_Model Recipe </h3>
 
 
-This repo contains the model recipe for creating the model from scratch. 
+•This repo contains the model recipe for creating the model from scratch. 
 
-The Jupyter notebook contains the necessary libraries and steps to create a model using the ORPO Trainer. 
+•The Jupyter notebook contains the necessary libraries and steps to create a model using the ORPO Trainer. 
 
-The model was trained on the dataset for 5 epochs.
+•The model was trained on the dataset for 5 epochs.
 
 
 Note: Recommended hardware is L4 GPU, total training time takes ~1 hour for 5 epochs.
