@@ -1,7 +1,7 @@
 <h1 style="font-size: 2em;"> ElEmperador_Model Recipe </h1>
 
 
-This repositry contains the model recipe for creating the model from scratch. 
+This repo contains the model recipe for creating the model from scratch. 
 
 The Jupyter notebook contains the necessary libraries and steps to create a model using the ORPO Trainer. 
 
