@@ -6,10 +6,6 @@
 
 Note:total training time took ~1 hour for 5 epochs.
 
-# Reference Articles: 
-1) https://www.databricks.com/blog/efficient-fine-tuning-lora-guide-llms
-
-2) https://mlabonne.github.io/blog/posts/2024-04-19_Fine_tune_Llama_3_with_ORPO.html
 
 # Training Charts
 ![image](https://github.com/user-attachments/assets/67e8025b-f466-4e2d-a592-3789204e595b)
@@ -33,6 +29,10 @@ Note:total training time took ~1 hour for 5 epochs.
  <img src="https://github.com/user-attachments/assets/218f22f0-784e-46f5-bb6b-f249325a045f" width="1250" height="500">
  <img src="https://github.com/user-attachments/assets/c5964572-a9b4-4eaf-bb89-1e8e440b4a6a" width="1250" height="500">
 
+### Reference Articles: 
+1) https://www.databricks.com/blog/efficient-fine-tuning-lora-guide-llms
+
+2) https://mlabonne.github.io/blog/posts/2024-04-19_Fine_tune_Llama_3_with_ORPO.html
       
  
 
