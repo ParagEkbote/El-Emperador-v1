@@ -1,4 +1,4 @@
-<h3 style="font-size: 2em;"> El-Emperador_Model Recipe </h3>
+<h2 style="font-size: 2em;"> El-Emperador_Model Recipe </h2>
 
 •This repo contains the model recipe for finetuning the model from scratch. 
 
@@ -7,7 +7,7 @@
 Note:total training time took ~1 hour for 5 epochs.
 
 
-# Training Charts
+## Training Charts
 ![image](https://github.com/user-attachments/assets/67e8025b-f466-4e2d-a592-3789204e595b)
 ![image](https://github.com/user-attachments/assets/ab27ed13-cdda-418b-9bbd-f7c1a31bc9d9)
 ![image](https://github.com/user-attachments/assets/fd09bd7d-802f-4f11-a295-1b6c0c278b65)
@@ -20,7 +20,7 @@ Note:total training time took ~1 hour for 5 epochs.
 ![image](https://github.com/user-attachments/assets/f08392e0-b7a6-43f3-a653-f6dca7d39236)
 
 
-# Evaluation Charts:
+## Evaluation Charts:
  <img src="https://github.com/user-attachments/assets/0164a15c-767a-4f17-955d-10e11642623d" width="1250" height="500">
  <img src="https://github.com/user-attachments/assets/9924fd80-8baf-4a69-ad65-e257db707bab" width="1250" height="500">
  <img src="https://github.com/user-attachments/assets/f1ce23a0-2a8d-474b-988d-3e06d05352c1" width="1250" height="500">
