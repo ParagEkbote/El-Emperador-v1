@@ -14,9 +14,9 @@ Note:total training time took ~1 hour for 5 epochs.
 # Training Charts
 
 # Evaluation Charts:
-![image](https://github.com/user-attachments/assets/0164a15c-767a-4f17-955d-10e11642623d)
+1) ![image](https://github.com/user-attachments/assets/0164a15c-767a-4f17-955d-10e11642623d)
 
-![image](https://github.com/user-attachments/assets/9924fd80-8baf-4a69-ad65-e257db707bab)
+2) ![image](https://github.com/user-attachments/assets/9924fd80-8baf-4a69-ad65-e257db707bab)
 
 ![image](https://github.com/user-attachments/assets/209fda8f-0ca3-4c67-9a83-56d6a152e727)
 
