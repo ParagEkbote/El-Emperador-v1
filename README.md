@@ -1,4 +1,4 @@
-<h2 style="font-size: 2em;"> El-Emperador_Model Recipe </h2>
+<h1 style="font-size: 2em;"> El-Emperador_Model Recipe </h1>
 
 •This repo contains the model recipe for finetuning the model from scratch. 
 
