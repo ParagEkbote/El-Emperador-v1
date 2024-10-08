@@ -4,7 +4,7 @@
 
 •The Jupyter notebook contains the necessary libraries and steps to create a model using the ORPO Trainer. 
 
-Note:total training time took ~1 hour for 5 epochs.
+• Total Training Time took ~1 hour for 5 epochs.
 
 
 ## Training Charts
