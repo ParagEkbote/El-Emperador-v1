@@ -1,10 +1,8 @@
 <h1 style="font-size: 2em;"> El-Emperador_Model Recipe </h1>
 
-•This repo contains the model recipe for finetuning the model from scratch. 
+Welcome to the LeEmpereur_70-Base project! This repository contains the implementation recipe and fine-tuning scripts for the `LeEmpereur_70-Base` model.
 
 •The Jupyter notebook contains the necessary libraries and steps to create a model using the ORPO Trainer. 
-
-• Total Training Time took ~1 hour for 5 epochs.
 
 
 ## Training Charts
